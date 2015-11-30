@@ -1,0 +1,8 @@
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\CommNetPong\CommNetPong\CommNetPong\bin\x86\Debug\CommNetPong.exe
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\CommNetPong\CommNetPong\CommNetPong\bin\x86\Debug\CommNetPong.pdb
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\CommNetPong\CommNetPong\CommNetPong\obj\x86\Debug\CommNetPong.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\CommNetPong\CommNetPong\CommNetPong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\CommNetPong\CommNetPong\CommNetPong\obj\x86\Debug\CommNetPong.exe
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\CommNetPong\CommNetPong\CommNetPong\obj\x86\Debug\CommNetPong.pdb
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\CommNetPong\CommNetPong\CommNetPong\bin\x86\Debug\Content\Ball.xnb
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\CommNetPong\CommNetPong\CommNetPong\bin\x86\Debug\Content\VerticalPlayer.xnb
